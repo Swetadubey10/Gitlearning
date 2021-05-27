@@ -1,0 +1,4 @@
+This is 1st version of git
+want to commit for good reason
+this is new
+change
